@@ -13,10 +13,10 @@ http://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
 https://movementathens.out.airtime.pro/movementathens_a
 #EXTINF:0,No Signal Radio (NS1) | UK
 http://stream.radiojar.com/00bhbafk8yzuv
-#EXTINF:0,NTS Live International | UK
-http://stream-relay-geo.ntslive.net/stream2
 #EXTINF:0,NTS Live London | UK
 http://stream-relay-geo.ntslive.net/stream
+#EXTINF:0,NTS Live International | UK
+http://stream-relay-geo.ntslive.net/stream2
 #EXTINF:0,Radio Paradise (Main) | US
 https://stream.radioparadise.com/aac-320
 #EXTINF:0,Radio Paradise (Mellow) | US
