@@ -1,1 +1,2 @@
-A collection of internet radios of my preference.
+A collection of Internet Radios I like
+
