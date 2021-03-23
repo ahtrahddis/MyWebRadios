@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Balamii Radio | UK
 https://balamii.out.airtime.pro/balamii_a
+#EXTINF:0,BBC Radio 6 | UK
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_6music/format/pls.pls
 #EXTINF:0,En Lefko 87.7 | Greece 
 https://stream.radiojar.com/enlefko877
 #EXTINF:0,ERA Trito Programma 90.9 | GR
