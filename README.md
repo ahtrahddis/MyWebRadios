@@ -1,2 +1,1 @@
-# MyWebRadios
-a collection of internet radio stations I listen to
+A collection of internet radios of my preference.
