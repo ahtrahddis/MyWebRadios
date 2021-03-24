@@ -9,6 +9,8 @@ https://stream.radiojar.com/enlefko877
 http://radiostreaming.ert.gr/ert-trito
 #EXTINF:0,Jazz24 | US
 http://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
+#EXTINF:0,Jazz24 Low Quality (AAC 48K)| US
+https://live.wostreaming.net/direct/ppm-jazz24aac48-ibc1
 #EXTINF:0,Movement Radio | GR
 https://movementathens.out.airtime.pro/movementathens_a
 #EXTINF:0,No Signal Radio (NS1) | UK
