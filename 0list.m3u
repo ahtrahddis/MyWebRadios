@@ -3,12 +3,8 @@
 https://radio.streemlion.com:3715/stream
 #EXTINF:0,BBC 6 Music | UK
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_6music/format/pls.pls
-#EXTINF:0,Best 92.6 | GR
-http://best.live24.gr/best1222
 #EXTINF:0,Echoes of Bluemars | US
 http://streams.echoesofbluemars.org:8000/bluemars
-#EXTINF:0,En Lefko 87.7 | GR
-https://stream.radiojar.com/enlefko877
 #EXTINF:0,ERA Trito Programma 90.9 | GR
 http://radiostreaming.ert.gr/ert-trito
 #EXTINF:0,Jazz24 | US
