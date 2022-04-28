@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0,Arctic Outpost AM1270 | NO
 https://radio.streemlion.com:3715/stream
-#EXTINF:0,Echoes of Bluemars - Bluemars | US
+#EXTINF:0,Echoes of Bluemars (Bluemars) | US
 http://streams.echoesofbluemars.org:8000/bluemars
-#EXTINF:0,Echoes of Bluemars - Cryosleep | US
+#EXTINF:0,Echoes of Bluemars (Cryosleep) | US
 http://streams.echoesofbluemars.org:8000/cryosleep
 #EXTINF:0,ERA Trito Programma 90.9 | GR
 http://radiostreaming.ert.gr/ert-trito
