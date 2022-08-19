@@ -5,12 +5,18 @@ https://radio.streemlion.com:3715/stream
 http://streams.echoesofbluemars.org:8000/bluemars
 #EXTINF:0,Echoes of Bluemars (Cryosleep) | US
 http://streams.echoesofbluemars.org:8000/cryosleep
+#EXTINF:0,Echoes of Bluemars (Echoes From Within) | US
+http://streams.echoesofbluemars.org:8000/voicesfromwithin
 #EXTINF:0,ERA Deftero Programma 103.7 | GR
 http://radiostreaming.ert.gr:80/ert-deftero
 #EXTINF:0,ERA Trito Programma 90.9 | GR
 http://radiostreaming.ert.gr/ert-trito
+#EXTINF:0,ERT Deftero Laika | GR
+https://www.ertecho.gr/radio/deytero-laika
 #EXTINF:0,ERT Kosmos 93.6 | GR
-http://radiostreaming.ert.gr:80/ert-kosmos
+http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:0,ERT Kosmos Jazz | GR
+https://radiostreaming.ert.gr/ert-webjazz
 #EXTINF:0,Jazz24 | US
 http://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
 #EXTINF:0,Jazz24 Low Bitrate (AAC 48K) | US
