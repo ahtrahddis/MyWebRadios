@@ -22,9 +22,7 @@ http://radiostreaming.ert.gr/ert-kosmos
 #EXTINF:0,ERT Kosmos Jazz | GR
 https://radiostreaming.ert.gr/ert-webjazz
 #EXTINF:0,Jazz24 | US
-http://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
-#EXTINF:0,Jazz24 Low Bitrate (AAC 48K) | US
-https://live.wostreaming.net/direct/ppm-jazz24aac48-ibc1
+https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
 #EXTINF:0,Radio Paradise | US
 https://stream.radioparadise.com/aac-320
 #EXTINF:0,Radio Paradise Low Bitrate (MP3 128K) | US
